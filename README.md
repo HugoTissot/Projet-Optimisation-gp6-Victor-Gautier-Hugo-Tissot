@@ -1,6 +1,8 @@
 # Projet-Optimisation-gp6-Victor-Gautier-Hugo-Tissot
 
 Nous avons décider d'utiliser l'algorithme des contraintes actives pour répondre au problème.
+En effet il s'agit d'un problème d'optimisation de fonction quadratique sous contraintes d'inégalités
+
 Toutefois nous ne sommes pas parvenu à l'implémenter correctement après de multiples reprises, désolé..
 
 Voici le programme obtenu jusque là. Ce dernier produit des messages d'erreurs la plupart du temps.
